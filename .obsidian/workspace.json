@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robopro/制御/actuator/サバ缶ロボマスモックパッケージ.md",
+                "file": "robopro/制御/chassis/sugi_chassis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "サバ缶ロボマスモックパッケージ"
+              "title": "sugi_chassis"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robopro/制御/ROS2よく使うメッセージ.md",
+                "file": "robopro/制御/chassis/noda_chassis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROS2よく使うメッセージ"
+              "title": "noda_chassis"
             }
           }
         ]
@@ -191,16 +191,16 @@
   },
   "active": "27e33b9f3ae1ae19",
   "lastOpenFiles": [
-    "robopro/制御/ros2パッケージ作成プロンプトテンプレ.md",
-    "robopro/制御/テンプレ.md",
+    "robopro/制御/chassis/noda_chassis.md",
+    "robopro/制御/actuator/モータギア位置制御ノード速度制御バージョン.md",
+    "robopro/制御/chassis/sugi_chassis.md",
     "robopro/制御/ROS2よく使うメッセージ.md",
     "robopro/制御/actuator/サバ缶ロボマスモックパッケージ.md",
-    "robopro/制御/actuator/モータギア位置制御ノード速度制御バージョン.md",
+    "robopro/制御/ros2パッケージ作成プロンプトテンプレ.md",
+    "robopro/制御/テンプレ.md",
     "robopro/制御/必要な機能列挙.md",
     "robopro/制御/actuator/モータギア位置制御ノード.md",
-    "robopro/制御/chassis/sugi_chassis.md",
     "robopro/制御/sabacan_gpio_servo.md",
-    "robopro/制御/chassis/noda_chassis.md",
     "robopro/制御/kfs/kuwajima_kfs.md"
   ]
 }
